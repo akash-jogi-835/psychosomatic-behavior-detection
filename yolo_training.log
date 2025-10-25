@@ -1,0 +1,59 @@
+2025-10-24 14:54:51,547 - WARNING - Dataset split path does not exist: train/images
+2025-10-24 14:54:51,548 - WARNING - Dataset split path does not exist: val/images
+2025-10-24 14:55:27,507 - ERROR - Training pipeline failed: Dataset YAML not found at data.yaml
+2025-10-24 15:00:24,017 - INFO -    - train_images_count: 18596
+2025-10-24 15:00:24,017 - INFO -    - train_images_extensions: ['.jpg']
+2025-10-24 15:00:24,018 - INFO -    - train_labels_count: 18596
+2025-10-24 15:00:24,018 - INFO -    - train_labels_extensions: ['.txt']
+2025-10-24 15:00:24,019 - INFO -    - val_images_count: 1716
+2025-10-24 15:00:24,019 - INFO -    - val_images_extensions: ['.jpg']
+2025-10-24 15:00:24,020 - INFO -    - val_labels_count: 1716
+2025-10-24 15:00:24,020 - INFO -    - val_labels_extensions: ['.txt']
+2025-10-24 15:00:24,021 - INFO -    - test_images_count: 2323
+2025-10-24 15:00:24,021 - INFO -    - test_images_extensions: ['.jpg']
+2025-10-24 15:00:24,021 - INFO -    - test_labels_count: 2323
+2025-10-24 15:00:24,022 - INFO -    - test_labels_extensions: ['.txt']
+2025-10-24 15:00:24,022 - INFO -    - num_classes: 2
+2025-10-24 15:00:24,023 - INFO -    - class_names: {0: 'class_0', 1: 'class_1'}
+2025-10-24 15:00:24,023 - INFO -    - train_images: 18596
+2025-10-24 15:00:24,023 - INFO -    - train_labels: 18596
+2025-10-24 15:00:24,024 - INFO -    - train_pairs: 18596
+2025-10-24 15:00:24,024 - INFO -    - val_images: 1716
+2025-10-24 15:00:24,024 - INFO -    - val_labels: 1716
+2025-10-24 15:00:24,025 - INFO -    - val_pairs: 1716
+2025-10-24 15:00:24,025 - INFO -    - test_images: 2323
+2025-10-24 15:00:24,026 - INFO -    - test_labels: 2323
+2025-10-24 15:00:24,026 - INFO -    - test_pairs: 2323
+2025-10-24 15:00:24,034 - INFO -    - Classes: 2
+2025-10-24 15:00:24,034 - INFO -    - Class names: {0: 'class_0', 1: 'class_1'}
+2025-10-24 15:00:24,035 - INFO -    - Train images: train/images
+2025-10-24 15:00:24,035 - INFO -    - Val images: val/images
+2025-10-24 15:00:24,036 - INFO -    - Test images: test/images
+2025-10-24 15:04:54,064 - INFO -    - train_images_count: 18596
+2025-10-24 15:04:54,065 - INFO -    - train_images_extensions: ['.jpg']
+2025-10-24 15:04:54,066 - INFO -    - train_labels_count: 18596
+2025-10-24 15:04:54,066 - INFO -    - train_labels_extensions: ['.txt']
+2025-10-24 15:04:54,067 - INFO -    - val_images_count: 1716
+2025-10-24 15:04:54,067 - INFO -    - val_images_extensions: ['.jpg']
+2025-10-24 15:04:54,068 - INFO -    - val_labels_count: 1716
+2025-10-24 15:04:54,068 - INFO -    - val_labels_extensions: ['.txt']
+2025-10-24 15:04:54,069 - INFO -    - test_images_count: 2323
+2025-10-24 15:04:54,069 - INFO -    - test_images_extensions: ['.jpg']
+2025-10-24 15:04:54,070 - INFO -    - test_labels_count: 2323
+2025-10-24 15:04:54,070 - INFO -    - test_labels_extensions: ['.txt']
+2025-10-24 15:04:54,071 - INFO -    - num_classes: 2
+2025-10-24 15:04:54,071 - INFO -    - class_names: {0: 'class_0', 1: 'class_1'}
+2025-10-24 15:04:54,071 - INFO -    - train_images: 18596
+2025-10-24 15:04:54,072 - INFO -    - train_labels: 18596
+2025-10-24 15:04:54,072 - INFO -    - train_pairs: 18596
+2025-10-24 15:04:54,073 - INFO -    - val_images: 1716
+2025-10-24 15:04:54,073 - INFO -    - val_labels: 1716
+2025-10-24 15:04:54,073 - INFO -    - val_pairs: 1716
+2025-10-24 15:04:54,074 - INFO -    - test_images: 2323
+2025-10-24 15:04:54,075 - INFO -    - test_labels: 2323
+2025-10-24 15:04:54,075 - INFO -    - test_pairs: 2323
+2025-10-24 15:04:54,082 - INFO -    - Classes: 2
+2025-10-24 15:04:54,083 - INFO -    - Class names: {0: 'class_0', 1: 'class_1'}
+2025-10-24 15:04:54,083 - INFO -    - Train images: data/processed/train/images
+2025-10-24 15:04:54,084 - INFO -    - Val images: data/processed/val/images
+2025-10-24 15:04:54,084 - INFO -    - Test images: data/processed/test/images
